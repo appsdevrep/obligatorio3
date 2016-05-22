@@ -7,7 +7,7 @@
 
 #ifndef ESTUDIANTES_H_
 #define ESTUDIANTES_H_
-#include <string.h>
+#include <string>
 #include <iostream>
 #include "Date.h"
 namespace std {
